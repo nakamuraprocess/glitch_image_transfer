@@ -11,7 +11,7 @@ are timestamped so repeated runs never overwrite earlier output.
 
 Usage:
     pip install pillow numpy
-    python glitch_art.py input.png -o ./out -n 10 -b 64 -s 20 --v-dir both
+    python main.py input.png -o ./out -n 10 -b 64 -s 20 --v-dir both
 
     -> ./out/input/20260721-104500_001.png
 """
